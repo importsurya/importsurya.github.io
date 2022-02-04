@@ -4,6 +4,6 @@ description: A simple template based on minimal jekyll theme
 show_downloads: True
 navigation:
   - title: Home
-    url: /
+    url: https://www.linkedin.com/in/suryasathiyanarayanan/
   - title: Setup
     url: setup
